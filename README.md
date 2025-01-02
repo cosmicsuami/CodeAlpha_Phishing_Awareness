@@ -1,6 +1,6 @@
 # Phishing Education and Awareness Project  
 
-This project, developed as part of the Code Alpha Internship Program, aims to promote awareness and understanding of phishing attacks. It provides educational resources and a simulation tool to demonstrate how phishing works and how to defend against it.  
+This project aims to promote awareness and understanding of phishing attacks. It provides educational resources and a simulation tool to demonstrate how phishing works and how to defend against it.  
 
 ---
 
